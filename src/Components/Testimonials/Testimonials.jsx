@@ -41,7 +41,7 @@ const Testimonials = () => {
                   <span>Calisity, USA</span>
                 </div>
               </div>
-              <p>Calisity has provided me with an exceptional education and a supportive community. The professors are knowledgeable and always willing to help.</p>
+              <p>Choosing to pursue my degree at Calisity was one of the best decisions I've ever made. The supportive community, state-of-the-art facilities, and commitment to academic excellence have truly exceeded my expectations.</p>
             </div>
           </li>
           <li>
